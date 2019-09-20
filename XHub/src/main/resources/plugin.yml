@@ -1,0 +1,5 @@
+name: XHub
+main: com.xgames178.XHub.XHub
+version: 1.0
+author: xgames178
+depend: [XCore, AuthMe]

@@ -1,0 +1,8 @@
+module_announcements:
+  enabled: false
+  announcements:
+    - "Text 1"
+    - "Text 2"
+    - "Text 3"
+module_jump:
+  enabled: false

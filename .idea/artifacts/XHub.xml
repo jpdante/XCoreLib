@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XHub">
+    <output-path>$PROJECT_DIR$/out/artifacts/XHub</output-path>
+    <root id="archive" name="XHub.jar">
+      <element id="module-output" name="XHub" />
+    </root>
+  </artifact>
+</component>
