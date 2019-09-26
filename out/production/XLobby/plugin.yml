@@ -1,5 +1,0 @@
-name: XLobby
-main: com.xgames178.XLobby.XLobby
-version: 1.0
-author: xgames178
-depend: [XCore, CrazyLogin]
